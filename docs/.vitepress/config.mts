@@ -18,6 +18,7 @@ export default defineConfig({
         text: 'Guide',
         items: [
           { text: 'Getting Started',      link: '/guide/getting-started' },
+          { text: 'Windows',              link: '/guide/windows' },
           { text: 'Layout Operations',    link: '/guide/layout-operations' },
           { text: 'Popups',               link: '/guide/popups' },
           { text: 'Declarative Layout',   link: '/guide/declarative-layout' },
